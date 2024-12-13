@@ -78,7 +78,7 @@
     <!-- Autobiography Page -->
     <div id="autobiography" class="page-content container">
         <h2>AUTOBIOGRAPHY</h2>
-        <img src="your-image.jpg" alt="Edmar Jazarino" class="image-center">
+        <img src="Messenger_creation_444695FD-8E29-48B1-8DC0-4C8DDDBA14EE.jpeg" alt="Edmar Jazarino" class="image-center">
         <p>I am Edmar N. Jazarino, a 19-year-old from Casiguran, Sorsogon province. I am studying at Sorsogon College of Criminology Inc., a second-year criminology student, born on April 4, 2005. I have a deep passion for law enforcement agencies and am willing to work hard to bring positive change and contribute to this field. My family, especially my father, Eduardo, who works as a fisherman, has always supported me in my educational journey, even though it has been challenging. I remain highly interested in my studies on criminal justice, forensic science, and law enforcement procedures, motivated by my burning desire to fight for justice and help others.</p>
     </div>
     <!-- Article Page -->
