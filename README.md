@@ -102,7 +102,12 @@
     <!-- Blog Page -->
     <div id="blog" class="page-content container">
         <h2>BLOG</h2>
-        <iframe src="https://m.youtube.com/watch?v=VJFaO2-zsCU&pp=ygUHbWFsd2FyZQ%3D%3D" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/NZDiQczOsdc?pp=ygUOY29tcHV0ZXIgdmlydXM%3D" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
         <h3>Malware</h3>
         <p>Malware is software designed to disrupt, damage, or gain unauthorized access to computer systems.</p>
         <ul>
