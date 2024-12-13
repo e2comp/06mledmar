@@ -84,7 +84,12 @@
     <!-- Article Page -->
     <div id="article" class="page-content container">
         <h2>ARTICLE</h2>
-        <iframe src="https://m.youtube.com/watch?v=k6uUXr6Dotk&pp=ygUSV2hhdCBpcyBwbGFnaWFyaXNt" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/k6uUXr6Dotk?pp=ygUSV2hhdCBpcyBwbGFnaWFyaXNt" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
         <h3>Plagiarism</h3>
         <p>Plagiarism means taking credit for someone else's words or ideas, either on purpose or accidentally through failure to cite sources.</p>
         <h4>Famous cases of plagiarism:</h4>
