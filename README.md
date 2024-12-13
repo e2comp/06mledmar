@@ -210,10 +210,6 @@
             </tr>
         </table>
         <!-- Embedded YouTube Video in Blog -->
-        <iframe width="560" height="315" 
-                src="https://www.youtube.com/embed/VJFaO2-zsCU" 
-                title="Malware Explained" frameborder="0" allowfullscreen>
-        </iframe>
     </main>
 </body>
 </html>
