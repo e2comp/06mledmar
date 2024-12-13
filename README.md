@@ -181,6 +181,9 @@
         th {
             background-color: #800000;
         }
+        tr {
+            background-color: #660000;
+        }
     </style>
 </head>
 <body>
@@ -292,8 +295,6 @@
             background-color: #cc0000;
         }
     </style>
-</head>
-<body>
     <header>
         <h1>Mobile Legends Player Feedback Form</h1>
     </header>
