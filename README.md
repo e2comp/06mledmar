@@ -50,7 +50,7 @@
     </nav>
     <main>
         <!-- Image before Autobiography -->
-        <img src="author.jpg" alt="Author Photo" style="display:block; margin:auto; width:50%;">
+        <img src="Messenger_creation_444695FD-8E29-48B1-8DC0-4C8DDDBA14EE.jpeg" alt="Author Photo" style="display:block; margin:auto; width:50%;">
         <!-- Autobiography Section -->
         <h2>Autobiography</h2>
         <p>
