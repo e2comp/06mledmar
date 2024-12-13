@@ -59,6 +59,10 @@
         <p>
             My father, Eduardo, is a fisherman who supports the family. Despite the challenges, I continue to pursue my education with a burning ambition to fight for justice and help people. I am passionate about criminal justice, forensics, and law enforcement procedures, and my family has always supported me in this journey.
         </p>
+        <audio controls>
+    <source src="videoplayback (6).webm" type="audio/mp3">
+    Your browser does not support the audio element.
+</audio>
     </main>
 </body>
 </html>
